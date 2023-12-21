@@ -1,0 +1,15 @@
+{
+  "loader": {},
+  "targets": {
+    "vscode": {
+      "cursor": ["/*cursor*/", "#cursor"],
+      "snippet-keys": {},
+      "package": {
+        "name": "ctf-snippet",
+        "version": "0.0.1",
+        "publisher": "keymoon",
+        "engines": { "vscode": "^1.0.0" }
+      }
+    }
+  }
+}
