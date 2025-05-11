@@ -1,5 +1,5 @@
 # HEADER
-# name: Call System(x64)
+# name: Call Execve(x64)
 # prefix: rop-call-execve
 # description: execve("/bin/sh", 0, 0)
 # author: keymoon

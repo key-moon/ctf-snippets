@@ -9,4 +9,4 @@
 # _p: p
 
 # BODY
-pari(f"addprimes({_p})")
+pari.addprimes(_p)
